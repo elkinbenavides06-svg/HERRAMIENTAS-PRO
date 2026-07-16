@@ -1,0 +1,5 @@
+# Google AdSense ads.txt para herramientaspro.site
+# REEMPLAZA "pub-0000000000000000" con tu ID de editor (Publisher ID) real de Google AdSense.
+# Puedes encontrar tu Publisher ID en el panel de control de Google AdSense.
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

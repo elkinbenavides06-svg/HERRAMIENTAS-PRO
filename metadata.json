@@ -1,0 +1,6 @@
+{
+  "name": "Herramientas Pro",
+  "description": "Plataforma profesional de herramientas online gratuitas: PDF, calculadoras, conversores, texto, imágenes y herramientas de desarrollo. Rápida, segura y sin registro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

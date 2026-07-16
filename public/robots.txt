@@ -1,0 +1,11 @@
+# Robots.txt para herramientaspro.site
+# Optimizado para buscadores y Google AdSense
+
+User-agent: *
+Allow: /
+
+# Evitar indexación de búsquedas directas vacías o duplicados
+Disallow: /search?*
+
+# Ubicación del archivo de Mapa de Sitio
+Sitemap: https://herramientaspro.site/sitemap.xml
